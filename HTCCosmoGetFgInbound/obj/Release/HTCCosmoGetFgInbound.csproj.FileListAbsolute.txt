@@ -1,0 +1,9 @@
+D:\src\cosmo-get-fginbound\HTCCosmoGetFgInbound\bin\Release\HTCCosmoGetFgInbound.exe
+D:\src\cosmo-get-fginbound\HTCCosmoGetFgInbound\bin\Release\HTCCosmoGetFgInbound.pdb
+D:\src\cosmo-get-fginbound\HTCCosmoGetFgInbound\bin\Release\MySql.Data.dll
+D:\src\cosmo-get-fginbound\HTCCosmoGetFgInbound\bin\Release\System.Data.OracleClient.dll
+D:\src\cosmo-get-fginbound\HTCCosmoGetFgInbound\obj\Release\HTCCosmoGetFgInbound.csproj.AssemblyReference.cache
+D:\src\cosmo-get-fginbound\HTCCosmoGetFgInbound\obj\Release\HTCCosmoGetFgInbound.csproj.CoreCompileInputs.cache
+D:\src\cosmo-get-fginbound\HTCCosmoGetFgInbound\obj\Release\HTCCosmoGetFgInbound.csproj.CopyComplete
+D:\src\cosmo-get-fginbound\HTCCosmoGetFgInbound\obj\Release\HTCCosmoGetFgInbound.exe
+D:\src\cosmo-get-fginbound\HTCCosmoGetFgInbound\obj\Release\HTCCosmoGetFgInbound.pdb

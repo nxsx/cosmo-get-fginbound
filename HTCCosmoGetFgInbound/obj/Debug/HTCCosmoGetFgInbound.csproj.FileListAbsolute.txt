@@ -1,0 +1,8 @@
+D:\src\cosmo-get-fginbound\HTCCosmoGetFgInbound\bin\Debug\HTCCosmoGetFgInbound.exe
+D:\src\cosmo-get-fginbound\HTCCosmoGetFgInbound\bin\Debug\HTCCosmoGetFgInbound.pdb
+D:\src\cosmo-get-fginbound\HTCCosmoGetFgInbound\bin\Debug\System.Data.OracleClient.dll
+D:\src\cosmo-get-fginbound\HTCCosmoGetFgInbound\obj\Debug\HTCCosmoGetFgInbound.csproj.AssemblyReference.cache
+D:\src\cosmo-get-fginbound\HTCCosmoGetFgInbound\obj\Debug\HTCCosmoGetFgInbound.csproj.CoreCompileInputs.cache
+D:\src\cosmo-get-fginbound\HTCCosmoGetFgInbound\obj\Debug\HTCCosmoGetFgInbound.csproj.CopyComplete
+D:\src\cosmo-get-fginbound\HTCCosmoGetFgInbound\obj\Debug\HTCCosmoGetFgInbound.exe
+D:\src\cosmo-get-fginbound\HTCCosmoGetFgInbound\obj\Debug\HTCCosmoGetFgInbound.pdb
