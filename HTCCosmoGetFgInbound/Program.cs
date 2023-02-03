@@ -11,6 +11,8 @@ namespace HTCCosmoGetFgInbound
                 try
                 {
                     DatabaseService.rfGetFgInbound();
+                    DatabaseService.wacGetFgInbound();
+                    DatabaseService.sacGetFgInbound();
                 }
                 catch (Exception ex)
                 {
@@ -18,6 +20,7 @@ namespace HTCCosmoGetFgInbound
                 }
                 finally
                 {
+                    Console.WriteLine("System run interval:300000msec");
                     System.Threading.Thread.Sleep(300000);
                 }
             }
